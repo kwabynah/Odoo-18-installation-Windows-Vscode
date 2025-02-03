@@ -27,4 +27,7 @@ Open VS Code and follow these steps:
 2. Clone the Odoo source code:  
    ```bash  
    git clone https://github.com/odoo/odoo.git  
-   cd odoo  
+   cd odoo
+
+WATCH THIS VIDEO
+https://www.youtube.com/watch?v=69-x2tquQBo
