@@ -18,7 +18,8 @@ Before you begin, ensure you have the following installed on your system:
 - Download and install Python from [Python.org](https://www.python.org/).  
 - Install PostgreSQL from [PostgreSQL.org](https://www.postgresql.org/download/).  
 - Install Git from [Git-SCM](https://git-scm.com/).  
-- Install Visual Studio Code from [VS Code](https://code.visualstudio.com/).  
+- Install Visual Studio Code from [VS Code](https://code.visualstudio.com/).
+- Download and install Odoo from [https://www.odoo.com/page/download]
 
 ### 2. Clone the Odoo Repository  
 Open VS Code and follow these steps:  
